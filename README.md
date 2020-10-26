@@ -1,8 +1,8 @@
 # day-planner
-```
+* https://jibrildoqow.github.io/day-planner/
+* https://github.com/jibrildoqow/day-planner
 
 
-`````
 # About the Project
 ```
  AS AN employee with a busy schedule
@@ -34,3 +34,8 @@ THEN the saved events persist
 * jQuery
 * Bootstrap
 * Moment.js
+
+## Acknowlledements
+* Jason Whitted (instuctor)
+* https://w3school.com/
+* https://stackoverflow.com/
